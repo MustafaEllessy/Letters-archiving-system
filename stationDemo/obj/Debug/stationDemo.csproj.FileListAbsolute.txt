@@ -1,0 +1,45 @@
+C:\Users\NanoChip\source\repos\stationDemo\stationDemo\bin\Debug\stationDemo.exe.config
+C:\Users\NanoChip\source\repos\stationDemo\stationDemo\bin\Debug\stationDemo.exe
+C:\Users\NanoChip\source\repos\stationDemo\stationDemo\bin\Debug\stationDemo.pdb
+C:\Users\NanoChip\source\repos\stationDemo\stationDemo\obj\Debug\stationDemo.csproj.AssemblyReference.cache
+C:\Users\NanoChip\source\repos\stationDemo\stationDemo\obj\Debug\stationDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\NanoChip\source\repos\stationDemo\stationDemo\obj\Debug\stationDemo.frmStationDemo.resources
+C:\Users\NanoChip\source\repos\stationDemo\stationDemo\obj\Debug\stationDemo.Properties.Resources.resources
+C:\Users\NanoChip\source\repos\stationDemo\stationDemo\obj\Debug\stationDemo.csproj.GenerateResource.cache
+C:\Users\NanoChip\source\repos\stationDemo\stationDemo\obj\Debug\stationDemo.csproj.CoreCompileInputs.cache
+C:\Users\NanoChip\source\repos\stationDemo\stationDemo\obj\Debug\stationDemo.exe
+C:\Users\NanoChip\source\repos\stationDemo\stationDemo\obj\Debug\stationDemo.pdb
+C:\Users\NanoChip\source\repos\stationDemo\stationDemo\obj\Debug\stationDemo.frmAddStation.resources
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - Copy\stationDemo\bin\Debug\stationDemo.exe.config
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - Copy\stationDemo\bin\Debug\stationDemo.exe
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - Copy\stationDemo\bin\Debug\stationDemo.pdb
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - Copy\stationDemo\obj\Debug\stationDemo.csproj.AssemblyReference.cache
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - Copy\stationDemo\obj\Debug\stationDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - Copy\stationDemo\obj\Debug\stationDemo.frmAddStation.resources
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - Copy\stationDemo\obj\Debug\stationDemo.frmStationDemo.resources
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - Copy\stationDemo\obj\Debug\stationDemo.Properties.Resources.resources
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - Copy\stationDemo\obj\Debug\stationDemo.csproj.GenerateResource.cache
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - Copy\stationDemo\obj\Debug\stationDemo.csproj.CoreCompileInputs.cache
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - Copy\stationDemo\obj\Debug\stationDemo.exe
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - Copy\stationDemo\obj\Debug\stationDemo.pdb
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\bin\Debug\stationDemo.exe.config
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\obj\Debug\stationDemo.exe
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\obj\Debug\stationDemo.pdb
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\bin\Debug\stationDemo.exe
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\bin\Debug\stationDemo.pdb
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\obj\Debug\stationDemo.frmAddStation.resources
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\obj\Debug\stationDemo.frmStationDemo.resources
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\obj\Debug\stationDemo.Properties.Resources.resources
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\obj\Debug\stationDemo.csproj.GenerateResource.Cache
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\obj\Debug\stationDemo.csproj.AssemblyReference.cache
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\obj\Debug\stationDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\obj\Debug\stationDemo.csproj.CoreCompileInputs.cache
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\bin\Debug\EPPlus.dll
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\bin\Debug\EPPlus.xml
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\NanoChip\source\repos\stationDemo version 31-7-2022 - rev2\stationDemo\obj\Debug\stationDemo.csproj.CopyComplete
